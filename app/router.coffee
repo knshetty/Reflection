@@ -1,0 +1,28 @@
+`import Ember from 'ember'`
+`import config from './config/environment'`
+
+Router = Ember.Router.extend
+  location: config.locationType
+
+Router.map ->
+  # --------------------------------------------
+  # Public routes
+  # --------------------------------------------
+  @route 'mystory'
+  @resource 'research', ->
+    @resource 'research.software', { path: '/software' }, ->
+      @route 'mdsd'
+      @route 'dsl'
+    @resource 'research.analytics', { path: '/analytics' }, ->
+      @route 'algotrading'
+      @route 'infovis'
+    @route 'robotics'
+  @resource 'projects', ->
+    @route 'hackneyhorse'
+    @route 'norfolktrotter'
+    @route 'markhor'
+    @route 'nutcracker'
+    @route 'manucode'
+    @route 'mandarinduck'
+
+`export default Router`
