@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'my-journey',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/Reflection',
     locationType: 'auto',
     contentSecurityPolicy: {'img-src': "'self' knshetty.github.io"},
     EmberENV: {
