@@ -22,6 +22,7 @@ Router.map ->
     @route 'norfolktrotter'
     @route 'markhor'
     @route 'nutcracker'
+    @route 'hornet'
     @route 'manucode'
     @route 'mandarinduck'
 
