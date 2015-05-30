@@ -56,6 +56,64 @@
             {{/link-to}}
 
           </ul>
+          
+          <ul class="nav navbar-nav navbar-right">
+			{{#link-to ""
+              tagName =   "li"
+              href    =   false}}
+              <a {{action 'showmodal'}}>
+                <span class="glyphicon glyphicon-info-sign"></span>
+                About
+              </a>
+            {{/link-to}}
+
+            {{#bs-modal 
+            	name="aboutModal"
+            	fade=true
+            	footerButtonsBinding="aboutModalButtons"
+            	title="About"}}
+
+				<div class="row">
+					<div class="col-sm-5 col-md-5">
+						<div class="thumbnail">
+							<img src="/Reflection/assets/images/reflection_technologies.svg"
+							     alt="Reflection Technologies">
+				    	</div>
+					</div>
+
+					<div class="col-sm-7 col-md-7">
+				    	<div class="thumbnail">
+					      	<h1>Reflection App</h1>
+							<p>
+								This Single-Page Application (SPA) is designed by Nirdharsh. And acts as a presentation of his life's journey and interest.
+
+								<br>
+								<br>
+								<strong>Version</strong>
+
+								<br>
+								&nbsp; 0.1
+
+								<br>
+								<br>
+								<strong>License</strong>
+
+								<br>
+								&nbsp; &nbsp;Berkeley Software Distribution (BSD) License.
+
+								<br>
+								<br>
+								<strong>Copyright</strong>
+
+								<br>
+								&nbsp; &nbsp;&copy; 2015 Nirdharsh Shetty
+							</p>
+				    	</div>
+					</div>
+				</div>
+		    {{/bs-modal}}
+
+		  </ul>
 
         </div>
 
