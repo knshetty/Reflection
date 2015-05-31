@@ -10,8 +10,7 @@ ProjectsRoute = Ember.Route.extend(
       Ember.Object.create({ title: 'Markhor - 2014', linkTo: 'projects.markhor' })
       Ember.Object.create({ title: 'Nutcracker/Rooks - 2012', linkTo: 'projects.nutcracker' })
       Ember.Object.create({ title: 'Hornet - 2012', linkTo: 'projects.hornet' })
-      Ember.Object.create({ title: 'Manucode - 2012', linkTo: 'projects.manucode' })
-      Ember.Object.create({ title: 'Mandarin Duck - 2012', linkTo: 'projects.mandarinduck' })
+      Ember.Object.create({ title: 'Manucode/SnailShell - 2011', linkTo: 'projects.manucode' })
     ]
 
     controller.set('tabs', tabs)
