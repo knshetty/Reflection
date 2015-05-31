@@ -24,6 +24,5 @@ Router.map ->
     @route 'nutcracker'
     @route 'hornet'
     @route 'manucode'
-    @route 'mandarinduck'
 
 `export default Router`
