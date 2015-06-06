@@ -3,10 +3,13 @@
 ProjectsNorfolktrotterRoute = Ember.Route.extend(
 
 	setupController: (controller, model) ->
+		demoService_url = 'http://88.114.108.176:1337/city'
 		
-		Ember.$.get('http://88.114.108.176:1337/exchange').done( ->
+		# Check 'Demo Service' is alive + Initialise variables
+		Ember.$.get(demoService_url).done( ->
 			console.log('NorfolkTrotter-Service Available')
 			controller.set('demo', true)
+			controller.set('demoService_url', demoService_url)
 		).fail( ->
 			console.log('NorfolkTrotter-Service Not Available!')
 			controller.set('demo', false)

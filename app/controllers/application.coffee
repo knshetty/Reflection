@@ -1,7 +1,8 @@
 `import Ember from 'ember'`
 
 ApplicationController = Ember.Controller.extend(
-	 aboutModalButtons: [Ember.Object.create({title: 'Close', clicked:"cancel", dismiss: 'modal'})]
+
+	aboutModalButtons: [Ember.Object.create({title: 'Close', clicked:"cancel", dismiss: 'modal'})]
 
 	actions:
 		showmodal: ->
