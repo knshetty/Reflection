@@ -6,7 +6,10 @@ module.exports = function(environment) {
     environment: environment,
     baseURL: '/Reflection',
     locationType: 'auto',
-    contentSecurityPolicy: {'img-src': "'self' 'knshetty.github.io' '88.114.108.176:4201'"},
+    contentSecurityPolicy: {
+		'img-src': "'self'",
+		'connect-src': "'self' http://88.114.108.176:4201 http://88.114.108.176:1337",
+	},
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
