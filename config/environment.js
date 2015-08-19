@@ -8,7 +8,7 @@ module.exports = function(environment) {
     locationType: 'auto',
     contentSecurityPolicy: {
 		'img-src': "'self'",
-		'connect-src': "'self' http://88.114.108.176:4201 http://88.114.108.176:1337",
+		'connect-src': "'self' http://88.114.108.176:4201 http://88.114.108.176:1337 http://knshetty.github.io/ebook-searcher-app/",
 	},
     EmberENV: {
       FEATURES: {

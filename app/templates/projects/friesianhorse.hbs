@@ -1,0 +1,30 @@
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<div class="row">
+			<div class="col-md-11">
+				<h1>Visual DSL Tool - Client Side</h1>
+			</div>
+
+			{{#if demo}}
+				<div class="col-md-1">
+					<br>
+					{{#bs-button
+						type="link"
+						icon="glyphicon glyphicon-play-circle"
+						clicked="fire_demo"}}
+						Demo
+					{{/bs-button}}
+				</div>
+			{{/if}}
+		</div>
+	</div>
+
+	<div class="panel-body">
+		<img class="fadeIn fadeIn-1s"
+			 src="/Reflection/assets/images/friesianhorse_architecture.svg"
+			 alt="Hackney Horse"
+			 height="100%" width="100%">
+	</div>
+</div>
+
+{{outlet}}

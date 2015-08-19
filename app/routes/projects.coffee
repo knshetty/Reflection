@@ -5,6 +5,7 @@ ProjectsRoute = Ember.Route.extend(
   setupController: (controller, model) ->
 
     tabs = [
+      Ember.Object.create({ title: 'Friesian Horse - 2015', linkTo: 'projects.friesianhorse' })
       Ember.Object.create({ title: 'Hackney Horse - 2015', linkTo: 'projects.hackneyhorse' })
       Ember.Object.create({ title: 'Norfolk Trotter - 2015', linkTo: 'projects.norfolktrotter' })
       Ember.Object.create({ title: 'Markhor - 2014', linkTo: 'projects.markhor' })
@@ -16,8 +17,7 @@ ProjectsRoute = Ember.Route.extend(
     controller.set('tabs', tabs)
 
   afterModel: ->
-    @transitionTo('projects.hackneyhorse')
-
+    @transitionTo('projects.friesianhorse')
 
 )
 

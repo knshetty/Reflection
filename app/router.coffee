@@ -18,6 +18,7 @@ Router.map ->
       @route 'infovis'
     @route 'robotics'
   @resource 'projects', ->
+    @route 'friesianhorse'
     @route 'hackneyhorse'
     @route 'norfolktrotter'
     @route 'markhor'
