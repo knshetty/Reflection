@@ -63,6 +63,28 @@ app.import('bower_components/ember-addons.bs_for_ember/dist/js/bs-popover.min.js
 app.import('bower_components/ember-addons.bs_for_ember/dist/js/bs-progressbar.min.js');
 app.import('bower_components/ember-addons.bs_for_ember/dist/js/bs-wizard.min.js');
 
+// --- Matter.js (2D physics engine) dependencies ---
+// https://github.com/liabru/matter-js/wiki/Getting-started
+app.import('bower_components/matter-js/build/matter.js');
+var matterjsAssests = pickFiles('app/svgs/techstack', {
+  srcDir: '/',
+  files: ['coffeescript-logo.svg',
+          'emberjs-logo.svg',
+          'ember-cli-logo.svg',
+          'broccoli-logo.svg',
+          'bower-logo.svg',
+          'html5-logo.svg',
+          'handlebars-logo.svg',
+          'bootstrap-logo.svg',
+          'jquery-logo.svg',
+          'impress-js-logo.svg',
+          'mapbox-logo.svg',
+          'matter-js-logo.svg'],
+  destDir: '/assets/images'
+});
+
 module.exports = mergeTrees([app.toTree(),
                              bootstrapMap,
-                             bootstrapFonts]);
+                             bootstrapFonts,
+                             matterjsAssests
+                           ]);

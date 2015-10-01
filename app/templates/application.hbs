@@ -45,7 +45,7 @@
                 Research Interests
               </a>
             {{/link-to}}
-            
+
             {{#link-to "projects"
               tagName =   "li"
               href    =   false}}
@@ -56,19 +56,19 @@
             {{/link-to}}
 
           </ul>
-          
-          <ul class="nav navbar-nav navbar-right">
-			{{#link-to ""
-              tagName =   "li"
-              href    =   false}}
-              <a {{action 'showmodal'}}>
-                <span class="glyphicon glyphicon-info-sign"></span>
-                About
-              </a>
-            {{/link-to}}
 
-            {{#bs-modal 
-            	name="aboutModal"
+          <ul class="nav navbar-nav navbar-right">
+			         {{#link-to ""
+                  tagName =   "li"
+                  href    =   false}}
+                <a {{action 'showmodal'}}>
+                  <span class="glyphicon glyphicon-info-sign"></span>
+                  About
+                </a>
+              {{/link-to}}
+
+            {{#bs-modal
+              name="aboutModal"
             	fade=true
             	footerButtonsBinding="aboutModalButtons"
             	title="About"}}
@@ -79,9 +79,8 @@
 							<div align=center>
 								<strong>Technology Stack</strong>
 							</div>
-							<img src="/Reflection/assets/images/reflection_technologies.svg"
-							     alt="Reflection Technologies">
-				    	</div>
+							{{tech-stack-physics}}
+				    </div>
 					</div>
 
 					<div class="col-sm-7 col-md-7">
