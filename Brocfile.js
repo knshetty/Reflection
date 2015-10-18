@@ -83,6 +83,10 @@ var matterjsAssests = pickFiles('app/svgs/techstack', {
   destDir: '/assets/images'
 });
 
+// --- SVG libraries as dependencies ---
+// -- Snap.svg: SVG graphics library => https://github.com/adobe-webplatform/Snap.svg
+app.import('bower_components/Snap.svg/dist/snap.svg.js');
+
 module.exports = mergeTrees([app.toTree(),
                              bootstrapMap,
                              bootstrapFonts,

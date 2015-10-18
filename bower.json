@@ -15,6 +15,7 @@
     "qunit": "~1.15.0",
     "bootstrap": "~3.3.4",
     "ember-addons.bs_for_ember": "~0.7.0",
-    "matter-js": "~0.8.0-alpha"
+    "matter-js": "~0.8.0-alpha",
+    "Snap.svg": "snap.svg#~0.4.1"
   }
 }
