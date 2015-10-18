@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="277.17352"
-     inkscape:cy="319.88875"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="284.17954"
+     inkscape:cy="528.15663"
      inkscape:document-units="px"
-     inkscape:current-layer="g309"
+     inkscape:current-layer="g4361"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="1000"
@@ -78,9 +78,9 @@
         </g>
       </a>
       <a
-         xlink:title="eBook Searcher App - An interactive eBook search Single-Page App"
+         xlink:title="Git - Distributed version control system"
          target="_blank"
-         xlink:href="https://github.com/knshetty/ebook-searcher-app"
+         xlink:href="http://www.git-scm.com/"
          id="a4834">
         <g
            class="Graphic"
