@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="126.11661"
-     inkscape:cy="102.32429"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="441.32349"
+     inkscape:cy="386.1339"
      inkscape:document-units="px"
-     inkscape:current-layer="g266"
+     inkscape:current-layer="id9"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="1000"
@@ -189,36 +189,18 @@
        id="g221">
       <g
          id="id9">
-        <path
-           style="fill:#ffffff;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 7290,2840 -6328,0 0,-1038 12656,0 0,1038 -6328,0 z"
-           id="path224" />
         <text
-           class="TextShape"
-           id="text226">
-          <tspan
-             style="font-weight:400;font-size:706px;font-family:'Liberation Sans', sans-serif"
-             class="TextParagraph"
-             font-size="706px"
-             font-weight="400"
-             id="tspan228">
-            <tspan
-               class="TextPosition"
-               x="1212"
-               y="2566"
-               id="tspan230" />
-            <tspan
-               class="TextPosition"
-               x="1212"
-               y="2566"
-               id="tspan232">
-              <tspan
-                 style="fill:#000000;stroke:none"
-                 id="tspan234">SPA Framework of Choice – Ember.js</tspan>
-            </tspan>
-          </tspan>
-        </text>
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1128.88891602px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="856.73291"
+           y="2143.7612"
+           id="text4223"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4225"
+             x="856.73291"
+             y="2143.7612"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:740.83337402px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">SPA Framework of Choice – Ember.js</tspan></text>
       </g>
     </g>
     <a
