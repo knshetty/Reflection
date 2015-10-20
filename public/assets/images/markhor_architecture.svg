@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="289.04448"
-     inkscape:cy="58.51857"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="567.55082"
+     inkscape:cy="233.25173"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,15 +91,15 @@
        class="com.sun.star.drawing.CustomShape"
        id="g147"
        transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
       <g
          id="id3"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
         <path
            d="m 10295,6658 -4945,0 0,-4826 9890,0 0,4826 -4945,0 z"
            id="path150"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573" />
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573" />
       </g>
     </g>
     <a
@@ -125,48 +125,48 @@
       </g>
     </a>
     <g
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)"
+       transform="matrix(0.03543307,0,0,0.03543307,-16.283914,394.5957)"
        class="com.sun.star.drawing.CustomShape"
        id="g171"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
       <g
          id="id5"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
         <path
            d="m 9261,11430 -3947,0 0,-4318 7894,0 0,4318 -3947,0 z"
            id="path174"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1" />
       </g>
     </g>
     <g
-       transform="matrix(0.03528437,0,0,0.04411007,-15.796597,335.12228)"
+       transform="matrix(0.03528437,0,0,0.04411007,-14.428808,335.22177)"
        class="com.sun.star.drawing.CustomShape"
        id="g189"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:6.3369452">
+       style="stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1">
       <g
          id="id7"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:6.3369452">
+         style="stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1">
         <path
            d="m 12094,6503 381,-253 382,253 -191,0 0,764 191,0 -382,254 -381,-254 190,0 0,-764 -190,0 z m 0,-253 0,0 z m 763,1271 0,0 z"
            id="path192"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:6.3369452" />
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1" />
         <path
            d="m 12094,6503 381,-253 382,253 -191,0 0,764 191,0 -382,254 -381,-254 190,0 0,-764 -190,0 z"
            id="path194"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.3369452" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1" />
         <path
            d="m 12094,6250 0,0 z"
            id="path196"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.3369452" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1" />
         <path
            d="m 12857,7521 0,0 z"
            id="path198"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.3369452" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:6.33694506;stroke-opacity:1" />
       </g>
     </g>
     <a
@@ -194,24 +194,24 @@
     <g
        id="id8"
        transform="matrix(0.03716614,0,0,0.03540199,-25.189104,394.68174)"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:6.89211383">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.89211383">
       <path
-         style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:6.89211383"
+         style="fill:#ffffff;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.89211383"
          inkscape:connector-curvature="0"
          id="path215"
          d="m 4356,5778 1115,0 0,-190 372,381 -372,382 0,-191 -1115,0 0,-382 z m 0,-190 0,0 z m 1487,763 0,0 z" />
       <path
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.89211383"
+         style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.89211383"
          inkscape:connector-curvature="0"
          id="path217"
          d="m 4356,5778 1115,0 0,-190 372,381 -372,382 0,-191 -1115,0 0,-382 z" />
       <path
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.89211383"
+         style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.89211383"
          inkscape:connector-curvature="0"
          id="path219"
          d="m 4356,5588 0,0 z" />
       <path
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.89211383"
+         style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.89211383"
          inkscape:connector-curvature="0"
          id="path221"
          d="m 5843,6351 0,0 z" />
@@ -994,20 +994,20 @@
     <g
        class="com.sun.star.drawing.CustomShape"
        id="g535"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       transform="matrix(0.03543307,0,0,0.03543307,-16.568946,394.49069)"
+       style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
       <g
          id="id11"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
         <path
            d="m 10277,18242 -4953,0 0,-4826 9906,0 0,4826 -4953,0 z"
            id="path538"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1" />
       </g>
     </g>
     <a
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,406.49621)"
+       transform="matrix(0.03543307,0,0,0.03543307,-16.568946,406.49069)"
        xlink:title="AMQP - Advanced Message Queuing Protocol"
        target="_blank"
        xlink:href="http://www.amqp.org/"
@@ -1061,30 +1061,30 @@
        transform="matrix(0.03542017,0,0,0.0361475,-17.465315,389.74449)"
        class="com.sun.star.drawing.CustomShape"
        id="g589"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:6.98675565">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565">
       <g
          id="id15"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:6.98675565">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565">
         <path
            d="m 14649,6658 7,6926 169,0 -380,341 -383,-341 170,0 -7,-6926 424,0 z m 169,0 0,0 z m -755,7267 0,0 z"
            id="path592"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:6.98675565" />
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565" />
         <path
            d="m 14649,6658 7,6926 169,0 -380,341 -383,-341 170,0 -7,-6926 424,0 z"
            id="path594"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.98675565" />
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565" />
         <path
            d="m 14818,6658 0,0 z"
            id="path596"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.98675565" />
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565" />
         <path
            d="m 14063,13925 0,0 z"
            id="path598"
            inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:6.98675565" />
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:6.98675565" />
       </g>
     </g>
     <a
@@ -1092,7 +1092,7 @@
        target="_blank"
        xlink:href="https://www.mercurial-scm.org/"
        id="a5970"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-15.651703,418.49621)">
       <g
          class="Graphic"
          id="g608"
@@ -1113,12 +1113,12 @@
        transform="matrix(0.03543307,0,0,0.03543307,-17.668123,403.70308)"
        id="g614"
        class="com.sun.star.drawing.CustomShape"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
       <g
          id="id16"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
         <path
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573"
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573"
            inkscape:connector-curvature="0"
            id="path617"
            d="m 22590,17974 -4503,0 0,-5842 9005,0 0,5842 -4502,0 z" />
@@ -1129,7 +1129,7 @@
        xlink:href="http://www.talend.com/products/talend-open-studio"
        xlink:title="Talend Open Studio for Data Integration"
        id="a5955"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-15.651703,418.49621)">
       <g
          class="Graphic"
          id="g619"
@@ -1147,7 +1147,7 @@
       </g>
     </a>
     <a
-       transform="matrix(0.03543307,0,0,0.03543307,-19.651703,394.49621)"
+       transform="matrix(0.03543307,0,0,0.03543307,-11.651703,406.49621)"
        xlink:title="MySQL Workbench -  Visual database design tool"
        target="_blank"
        xlink:href="http://mysqlworkbench.org/"
@@ -1173,7 +1173,7 @@
        xlink:title="Supervisor - A Process Control System"
        xlink:href="http://supervisord.org/"
        id="a5965"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-15.651703,418.49621)">
       <g
          id="g639"
          class="Graphic"
@@ -1195,7 +1195,7 @@
        target="_blank"
        xlink:href="https://github.com/TAKEALOT/nodervisor"
        id="a5960"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-15.651703,418.49621)">
       <g
          id="g645"
          class="Graphic"
@@ -2015,7 +2015,7 @@
       </g>
     </g>
     <a
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,406.49621)"
+       transform="matrix(0.03543307,0,0,0.03543307,-16.568946,406.49069)"
        xlink:title="RabbitMQ - Message broker middleware"
        target="_blank"
        xlink:href="http://www.rabbitmq.com/"
@@ -2075,7 +2075,7 @@
        target="_blank"
        xlink:title="Eclipse - Integrated Development Environment (IDE)"
        id="a5988"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-15.651703,406.49621)">
       <image
          y="16055.664"
          x="18574.604"
@@ -2100,25 +2100,25 @@
     <text
        sodipodi:linespacing="125%"
        id="text7844"
-       y="675.26685"
-       x="177.94507"
+       y="675.36639"
+       x="179.31288"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-         y="675.26685"
-         x="177.94507"
+         y="675.36639"
+         x="179.31288"
          id="tspan7846"
          sodipodi:role="line">Relational DB</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7848"
-       y="897.10345"
-       x="179.30284"
+       y="897.0979"
+       x="180.3856"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-         y="897.10345"
-         x="179.30284"
+         y="897.0979"
+         x="180.3856"
          id="tspan7850"
          sodipodi:role="line">Messaging Middleware</tspan></text>
     <a
@@ -2126,7 +2126,7 @@
        xlink:href="https://mariadb.org"
        target="_blank"
        xlink:title="MariaDB - SQL server a drop-in replacement for MySQL"
-       transform="matrix(0.03543307,0,0,0.03543307,-37.651704,394.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-36.283915,394.5957)">
       <image
          width="2549.7114"
          height="2020.4705"
@@ -2141,7 +2141,7 @@
        target="_blank"
        xlink:title="MySQL - Relational database management system"
        xlink:href="http://www.mysql.com/"
-       transform="matrix(0.03543307,0,0,0.03543307,-17.651703,396.49621)">
+       transform="matrix(0.03543307,0,0,0.03543307,-16.283914,396.5957)">
       <g
          transform="matrix(9.904015,0,0,10.008673,8875.723,8568.5062)"
          id="g5678">
@@ -2244,5 +2244,58 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:458.6111145px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#999999">Event-centric Architecture</tspan></text>
       </g>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7840-0"
+       y="860.43475"
+       x="630.03693"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="860.43475"
+         x="630.03693"
+         id="tspan7842-4"
+         sodipodi:role="line">Toolchain</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1.00042856px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 623.13019,866.70607 319.2291,0"
+       id="path4583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.99865472px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.0664,905.80335 351.0916,0"
+       id="path4585"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.89151084px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.99802,680.82664 279.79692,0"
+       id="path4585-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.99778926px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.89932,495.324 350.48332,0"
+       id="path4585-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4608"
+       width="5.177032"
+       height="15.657364"
+       x="164.90739"
+       y="625.82532" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4610"
+       width="5.3033009"
+       height="32.829956"
+       x="164.65486"
+       y="623.04736" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4612"
+       width="12.626906"
+       height="68.690376"
+       x="158.59395"
+       y="619.51184" />
   </g>
 </svg>
