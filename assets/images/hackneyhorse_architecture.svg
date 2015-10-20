@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="441.32349"
-     inkscape:cy="386.1339"
+     inkscape:zoom="0.7"
+     inkscape:cx="953.67454"
+     inkscape:cy="263.90719"
      inkscape:document-units="px"
-     inkscape:current-layer="id9"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="1000"
@@ -58,7 +58,8 @@
        id="a5650"
        xlink:href="https://www.python.org/"
        target="_blank"
-       xlink:title="Python - interpreted, interactive, object-oriented, extensible programming language">
+       xlink:title="Python - interpreted, interactive, object-oriented, extensible programming language"
+       transform="translate(0,16)">
       <g
          id="g182"
          class="Graphic"
@@ -79,7 +80,8 @@
        id="a5655"
        xlink:href="https://atom.io/"
        target="_blank"
-       xlink:title="Atom - Code editor by GitHub">
+       xlink:title="Atom - Code editor by GitHub"
+       transform="translate(0,16)">
       <g
          id="g188"
          class="Graphic"
@@ -100,7 +102,8 @@
        id="a5660"
        xlink:href="http://www.git-scm.com/"
        xlink:title="Git - Distributed version control system"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,16)">
       <g
          id="g194"
          class="Graphic"
@@ -121,7 +124,8 @@
        id="a5665"
        xlink:href="https://www.mercurial-scm.org/"
        target="_blank"
-       xlink:title="Mercurial - Distributed source control management tool">
+       xlink:title="Mercurial - Distributed source control management tool"
+       transform="translate(0,16)">
       <g
          id="g200"
          class="Graphic"
@@ -142,12 +146,12 @@
        transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
        class="com.sun.star.drawing.CustomShape"
        id="g206"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
       <g
          id="id6"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
         <path
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573"
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573"
            inkscape:connector-curvature="0"
            d="m 22325,20820 -5207,0 0,-3556 10414,0 0,3556 -5207,0 z"
            id="path209" />
@@ -157,12 +161,12 @@
        transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
        class="com.sun.star.drawing.CustomShape"
        id="g211"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
       <g
          id="id7"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
         <path
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573"
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573"
            inkscape:connector-curvature="0"
            d="m 8328,20828 -8128,0 0,-20574 16256,0 0,20574 -8128,0 z"
            id="path214" />
@@ -172,19 +176,19 @@
        transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
        class="com.sun.star.drawing.CustomShape"
        id="g216"
-       style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+       style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
       <g
          id="id8"
-         style="stroke:#000000;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573">
         <path
-           style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:7.05555573"
+           style="fill:none;stroke:#4d4d4d;stroke-opacity:1;stroke-width:7.05555573"
            inkscape:connector-curvature="0"
            d="m 8355,7136 -7647,0 0,-4826 15294,0 0,4826 -7647,0 z"
            id="path219" />
       </g>
     </g>
     <g
-       transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
+       transform="matrix(0.03543307,0,0,0.03543307,5.0798773,343.45783)"
        class="com.sun.star.drawing.TextShape"
        id="g221">
       <g
@@ -204,7 +208,7 @@
       </g>
     </g>
     <a
-       transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
+       transform="matrix(0.03543307,0,0,0.03543307,1.0798773,311.45783)"
        id="a4454"
        xlink:href="http://emberjs.com/"
        xlink:title="Ember.js - SPA framework"
@@ -228,7 +232,8 @@
        id="a5600"
        xlink:title="Bower - Package manger for the web"
        xlink:href="http://bower.io"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g242"
          class="Graphic"
@@ -249,7 +254,8 @@
        id="a5605"
        xlink:href="http://broccolijs.com/"
        target="_blank"
-       xlink:title="Broccoli.js – Asset pipeline tool for web application development">
+       xlink:title="Broccoli.js – Asset pipeline tool for web application development"
+       transform="translate(0,8)">
       <g
          transform="matrix(0.03543307,0,0,0.03543307,3.0798773,307.45783)"
          id="g248"
@@ -270,7 +276,8 @@
        id="a5645"
        xlink:title="Handlebars - JS library for building semantic template"
        xlink:href="http://handlebarsjs.com/"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g254"
          class="Graphic"
@@ -291,7 +298,8 @@
        id="a5640"
        xlink:href="http://www.w3.org/html/"
        target="_blank"
-       xlink:title="HTML - Core language of the Web">
+       xlink:title="HTML - Core language of the Web"
+       transform="translate(0,8)">
       <g
          id="g260"
          class="Graphic"
@@ -309,7 +317,7 @@
       </g>
     </a>
     <g
-       transform="matrix(0.03543307,0,0,0.03543307,1.0798773,307.45783)"
+       transform="matrix(0.03543307,0,0,0.03543307,1.0798773,315.45783)"
        class="Group"
        id="g266">
       <g
@@ -329,12 +337,12 @@
       <g
          class="com.sun.star.drawing.CustomShape"
          id="g274"
-         style="stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1">
         <g
            id="id10"
-           style="stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573">
+           style="stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573"
+             style="fill:none;stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              d="m 4522,16910 -2082,0 0,-1016 4164,0 0,1016 -2082,0 z"
              id="path277" />
@@ -343,12 +351,12 @@
       <g
          class="com.sun.star.drawing.CustomShape"
          id="g279"
-         style="stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573">
+         style="stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1">
         <g
            id="id11"
-           style="stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573">
+           style="stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:7.05555573"
+             style="fill:none;stroke:#ffffff;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              d="m 4526,14878 -2086,0 0,-5334 4172,0 0,5334 -2086,0 z"
              id="path282" />
@@ -359,7 +367,8 @@
        id="a5625"
        xlink:title="jQuery -  Cross-platform JS library for client-side scripting of HTML"
        xlink:href="http://jquery.com/"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g284"
          class="Graphic"
@@ -380,7 +389,8 @@
        id="a5630"
        xlink:href="http://getbootstrap.com/"
        xlink:title="Bootstrap - Front-end framework by Twitter"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g290"
          class="Graphic"
@@ -401,7 +411,8 @@
        id="a5635"
        xlink:title="Semantic-UI - Front-end framework"
        xlink:href="http://semantic-ui.com/"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g296"
          class="Graphic"
@@ -422,7 +433,8 @@
        id="a5620"
        xlink:href="http://coffeescript.org/"
        target="_blank"
-       xlink:title="CoffeeScript - Little language that compiles into JavaScript">
+       xlink:title="CoffeeScript - Little language that compiles into JavaScript"
+       transform="translate(0,8)">
       <g
          id="g302"
          class="Graphic"
@@ -443,7 +455,8 @@
        id="a5615"
        xlink:title="WebSocket protocol - Full-duplex communication channels over a single TCP connection"
        xlink:href="http://www.websocket.org/"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,8)">
       <g
          id="g308"
          class="Graphic"
@@ -477,7 +490,8 @@
        id="a5610"
        xlink:title="Ember-CLI - A CLI for ambitious web applications"
        xlink:href="http://www.ember-cli.com/"
-       target="_blank">
+       target="_blank"
+       transform="translate(0,4)">
       <g
          id="g319"
          class="Graphic"
@@ -495,5 +509,35 @@
         </g>
       </g>
     </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1.00091875px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.245474,425.52331 541.931056,0"
+       id="path4219"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0.03543307,0,0,0.03543307,527.56177,677.91985)"
+       class="com.sun.star.drawing.TextShape"
+       id="g221-9">
+      <g
+         id="id9-6">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1128.88891602px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2595.7666"
+           y="7702.9673"
+           id="text4223-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4225-7"
+             x="2595.7666"
+             y="7702.9673"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:740.83337402px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Toolchain</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1.00473714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 607.59933,954.53656 369.12505,0.18278"
+       id="path4245"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
