@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="443.65568"
-     inkscape:cy="545.49707"
+     inkscape:zoom="1.4"
+     inkscape:cx="532.50751"
+     inkscape:cy="147.24622"
      inkscape:document-units="px"
      inkscape:current-layer="g4361"
      showgrid="false"
@@ -67,7 +67,8 @@
          xlink:href="https://atom.io/"
          target="_blank"
          xlink:title="Atom - Code editor by GitHub"
-         id="a4829">
+         id="a4829"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g237">
@@ -87,7 +88,8 @@
          xlink:title="Git - Distributed version control system"
          target="_blank"
          xlink:href="http://www.git-scm.com/"
-         id="a4834">
+         id="a4834"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g243">
@@ -106,12 +108,12 @@
       <g
          id="g249"
          class="com.sun.star.drawing.CustomShape"
-         style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
         <g
            id="id6"
-           style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+           style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path252"
              d="m 20016,20320 -2998,0 0,-3556 5996,0 0,3556 -2998,0 z" />
@@ -120,12 +122,12 @@
       <g
          id="g254"
          class="com.sun.star.drawing.CustomShape"
-         style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
         <g
            id="id7"
-           style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+           style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path257"
              d="m 8228,20320 -8128,0 0,-20066 16256,0 0,20066 -8128,0 z" />
@@ -134,12 +136,12 @@
       <g
          id="g259"
          class="com.sun.star.drawing.CustomShape"
-         style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
         <g
            id="id8"
-           style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+           style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path262"
              d="m 8255,6936 -7647,0 0,-4826 15294,0 0,4826 -7647,0 z" />
@@ -169,7 +171,8 @@
          xlink:title="Bower - Package manger for the web"
          target="_blank"
          xlink:href="http://bower.io"
-         id="a4784">
+         id="a4784"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g285">
@@ -189,7 +192,8 @@
          target="_blank"
          xlink:href="http://broccolijs.com/"
          xlink:title="Broccoli.js – Asset pipeline tool for web application development"
-         id="a4789">
+         id="a4789"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g291">
@@ -209,7 +213,8 @@
          target="_blank"
          xlink:title="Handlebars - JS library for building semantic template"
          xlink:href="http://handlebarsjs.com/"
-         id="a4824">
+         id="a4824"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g297">
@@ -229,7 +234,8 @@
          target="_blank"
          xlink:href="http://www.w3.org/html/"
          xlink:title="HTML - Core language of the Web"
-         id="a4819">
+         id="a4819"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g303">
@@ -249,7 +255,8 @@
          target="_blank"
          xlink:title="eBook Searcher App - An interactive eBook search Single-Page App"
          xlink:href="https://github.com/knshetty/ebook-searcher-app"
-         id="a4871">
+         id="a4871"
+         transform="translate(0,451.55559)">
         <g
            class="Group"
            id="g309">
@@ -313,7 +320,8 @@
          xlink:title="jQuery -  Cross-platform JS library for client-side scripting of HTML"
          target="_blank"
          xlink:href="http://jquery.com/"
-         id="a4804">
+         id="a4804"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g332">
@@ -333,7 +341,8 @@
          xlink:title="Bootstrap - Front-end framework by Twitter"
          target="_blank"
          xlink:href="http://getbootstrap.com/"
-         id="a4809">
+         id="a4809"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g338">
@@ -353,7 +362,8 @@
          target="_blank"
          xlink:title="CoffeeScript - Little language that compiles into JavaScript"
          xlink:href="http://coffeescript.org/"
-         id="a4799">
+         id="a4799"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g344">
@@ -373,7 +383,8 @@
          xlink:title="Blockly - Client-side JS library for creating visual block programming editor by Google"
          target="_blank"
          xlink:href="https://developers.google.com/blockly/"
-         id="a4814">
+         id="a4814"
+         transform="translate(0,451.55559)">
         <g
            class="Graphic"
            id="g350">
@@ -392,13 +403,13 @@
       <g
          id="g356"
          class="com.sun.star.drawing.CustomShape"
-         style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+         style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
          transform="matrix(1.0000138,0,0,0.95772246,-0.30507228,90.10312)">
         <g
            id="id13"
-           style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+           style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path359"
              d="m 22202,7153 -5484,0 0,-5020 10968,0 0,5020 -5484,0 z" />
@@ -406,27 +417,28 @@
       </g>
       <g
          id="g361"
-         class="com.sun.star.drawing.CustomShape">
+         class="com.sun.star.drawing.CustomShape"
+         style="stroke:#4d4d4d">
         <g
            id="id14"
-           style="stroke:#000000;stroke-width:7.05555582;stroke-opacity:1">
+           style="stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1">
           <path
-             style="fill:#ffffff;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:#ffffff;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path364"
              d="m 15140,4192 455,-381 0,190 1376,0 0,-190 456,381 -456,382 0,-191 -1376,0 0,191 -455,-382 z m 0,-381 0,0 z m 2287,763 0,0 z" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path366"
              d="m 15140,4192 455,-381 0,190 1376,0 0,-190 456,381 -456,382 0,-191 -1376,0 0,191 -455,-382 z" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path368"
              d="m 15140,3811 0,0 z" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:7.05555582;stroke-opacity:1"
+             style="fill:none;stroke:#4d4d4d;stroke-width:7.05555582;stroke-opacity:1"
              inkscape:connector-curvature="0"
              id="path370"
              d="m 17427,4574 0,0 z" />
@@ -458,7 +470,7 @@
          target="_blank"
          xlink:href="https://developers.google.com/books/docs/overview"
          id="a4844"
-         transform="translate(0,-282.22224)">
+         transform="translate(0,395.11114)">
         <g
            class="Group"
            id="g408">
@@ -501,7 +513,8 @@
          xlink:title="Ember-CLI - A CLI for ambitious web applications"
          target="_blank"
          xlink:href="http://www.ember-cli.com/"
-         id="a4794">
+         id="a4794"
+         transform="translate(0,338.66669)">
         <g
            class="Graphic"
            id="g429"
@@ -526,31 +539,32 @@
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1128.88891602px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="907.7323"
-         y="1943.3645"
+         y="2959.3628"
          id="text4391"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4393"
            x="907.7323"
-           y="1943.3645"
+           y="2959.3628"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:740.83337402px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke:#ffffff;stroke-width:0.99999994px;stroke-opacity:1">SPA Framework of Choice – Ember.js</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1128.88891602px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="17016.678"
-         y="1976.3594"
+         y="2992.3577"
          id="text4499"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4501"
            x="17016.678"
-           y="1976.3594"
+           y="2992.3577"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:740.83337402px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Third-party/RESTful API</tspan></text>
       <a
          id="a4235"
          xlink:title="IT eBooks Open API v.1"
          xlink:href="http://it-ebooks-api.info/"
-         target="_blank">
+         target="_blank"
+         transform="translate(0,733.77784)">
         <text
            sodipodi:linespacing="125%"
            id="text4244"
@@ -564,6 +578,33 @@
              id="tspan4246"
              sodipodi:role="line">IT eBooks Open API v.1</tspan></text>
       </a>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1128.88891602px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="17351.227"
+         y="17595.113"
+         id="text4499-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4501-2"
+           x="17351.227"
+           y="17595.113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:740.83337402px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Toolchain</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:28.22222328px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 606.01337,3096.6342 15915.212,3139.3971"
+         id="path4254"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:28.23194885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16714.253,3161.5567 10973.909,0"
+         id="path4256"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:28.22222328px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 17018.695,17680.668 5992.183,-15.12"
+         id="path4258"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
